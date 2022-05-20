@@ -1,6 +1,7 @@
 # Covid-Tracker
-* It displays total, active and new covid cases of the country and also shows the same for states.
-* Additionally it also tells about nearby available vaccine centre information using pincode.
+* It displays total, active and new covid cases in the country and also shows the same for states.
+* Additionally, it also tells about nearby available vaccine center information using Pincode
+
 
 # API
 The covid tracking data is retreived from https://vaccovid-coronavirus-vaccine-and-treatment-tracker.p.rapidapi.com/api/npm-covid-data/country-report-iso-based/India/IND and https://vaccovid-coronavirus-vaccine-and-treatment-tracker.p.rapidapi.com/api/api-covid-data/reports/IND
